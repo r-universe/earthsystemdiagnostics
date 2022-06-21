@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sedproxy"]
+	path = sedproxy
+	url = https://github.com/earthsystemdiagnostics/sedproxy
+	shallow = true
+	registered = true
